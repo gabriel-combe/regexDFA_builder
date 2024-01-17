@@ -5,6 +5,14 @@ Construct a minimal DFA from a regular expression using Thompson, determinisatio
 
 ![](images/minimisation.png)
 
+
+## Installation
+
+To compile the project run the following command in the root directory of the project.
+```sh
+make
+```
+
 ## Usage example
 
 To start the DFA builder, run the following command.
